@@ -1,0 +1,12 @@
+Showcase
+
+1) Upload ` cafe_managment_system.sql ` to XAMMP/ SAMMP Database and start Apache and MySQL in your XAMPP/ SAMMP.
+
+2) Open folder ` Cafe Managment System ` / ` dist ` / ` Cafe_Managment_System.jar `
+
+
+
+
+Open in Netbeans 
+
+** Missing plugins are in the ` plugin ` folder
